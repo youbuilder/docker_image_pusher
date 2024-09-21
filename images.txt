@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 postgres
 kurento/kurento-media-server:7.1.0
+apache/openmeetings:7.2.0

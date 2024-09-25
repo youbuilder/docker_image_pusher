@@ -4,8 +4,9 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-postgres
-kurento/kurento-media-server:7.1.0
-apache/openmeetings:7.2.0
-redis:6.2.1
---platform=linux/arm64 redis:6.0.8
+#postgres
+#kurento/kurento-media-server:7.1.0
+#apache/openmeetings:7.2.0
+#redis:6.2.1
+#--platform=linux/arm64 redis:6.0.8
+openeuler/openeuler:22.03-lts

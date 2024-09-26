@@ -9,4 +9,5 @@
 #apache/openmeetings:7.2.0
 #redis:6.2.1
 #--platform=linux/arm64 redis:6.0.8
-openeuler/openeuler:22.03-lts
+#openeuler/openeuler:22.03-lts
+enmotech/opengauss:5.0.0

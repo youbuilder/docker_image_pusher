@@ -10,4 +10,5 @@
 #redis:6.2.1
 #--platform=linux/arm64 redis:6.0.8
 #openeuler/openeuler:22.03-lts
-opengauss/opengauss:5.0.0
+#opengauss/opengauss:5.0.0
+enmotech/opengauss:5.0.1
